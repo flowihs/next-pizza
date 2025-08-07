@@ -19,7 +19,6 @@ export const Header: React.FC<Props> = ({ className }) => {
                         <p className="text-sm text-gray-400 leading-3">вкусней уже некуда</p>
                     </div>
                 </div>
-
             </Container>
         </header>
     );
